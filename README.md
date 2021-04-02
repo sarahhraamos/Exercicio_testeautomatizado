@@ -5,4 +5,4 @@
 <br>
 
 ## Exercício passado pelo professor Danilo, durante a academia Accenture.<br> 
-<b>Objetivo:</b> O objetivo do exercício era testar o [site](https://www.torneseumprogramador.com.br/) abrindo ele no browser e buscando as seguintes palavras na busca "tdd" e "bdd".
+<b>Objetivo:</b> O objetivo do exercício era testar o [site torne-se um programador](https://www.torneseumprogramador.com.br/) e buscar algumas informações.
