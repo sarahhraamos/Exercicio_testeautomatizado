@@ -8,6 +8,21 @@
 <b>Objetivo:</b> O objetivo do exercício era testar o [site torne-se um programador](https://www.torneseumprogramador.com.br/) e buscar algumas informações.
 <br>
 <br>
+## Caso de Teste :red_circle: <br>
+Entrar no site torneseumprogramador e pesquisar algumas informaçoes<br>
+<b>Cenario I:</b> Pesquisando tdd<br>
+	  Quando eu acesso o site do tornese um programador <br>
+	  E digito no campo busca "tdd"<br>
+	  E clico no botao pesquisar<br>
+	  Entao devo acessar a pagina com resultados de busca.<br>
+<br>   
+<b>Cenario II:</b> Pesquisando bdd<br>
+	  Quando eu acesso o site do tornese um programador <br>
+	  E digito no campo busca "bdd"<br>
+	  E clico no botao pesquisar<br>
+	  Entao devo acessar a pagina com resultados de busca<br>
+<br>  
+<br>
 <br>
 ## Tecnologias utilizadas :heart_eyes: <br>
  :white_check_mark: <b>Java</b><br>
